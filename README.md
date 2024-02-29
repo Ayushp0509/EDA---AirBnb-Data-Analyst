@@ -9,11 +9,11 @@ Since 2008, Airbnb has transformed the way people travel, offering unique and pe
 The dataset used for this analysis is the [Airbnb NYC 2019 dataset](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data). It contains approximately 49,000 observations with 16 columns, encompassing both categorical and numeric values
 
 
-## **Define Your Business Objective**
+## **Business Objective**
 
 Recommending marketing campaign strategies and predicting the destination neighborhoods in high demand. Focus on top-performing areas to maximize bookings and reduce marketing costs.
 
-## **Solution to Business Objective**
+## **Analysis**
 
 By identifying the top 20 neighborhoods with high booking numbers, we can target these areas for marketing campaigns, optimizing advertising efforts, and reducing marketing costs.
 
